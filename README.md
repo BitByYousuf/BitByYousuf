@@ -125,11 +125,11 @@ _Back End Developer (Dec 2020 – Jun 2023)_
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByYousuf&layout=compact&show_icon=true&theme=algolia" alt="BitByYousuf-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=BitByYousuf&layout=compact&show_icon=true&theme=algolia" alt="BitByYousuf-stats"/>
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitByYousuf&theme=algolia" />
   <img src="https://raw.githubusercontent.com/BitByYousuf/BitByYousuf/output/github-contribution-grid-snake-default.svg" alt="Contribution snake animation"/>
 </div> -->
