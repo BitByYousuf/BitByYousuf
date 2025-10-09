@@ -126,7 +126,7 @@ _Back End Developer (Dec 2020 – Jun 2023)_
 
 
 <!-- <div align="center">
-## 📊 GitHub Stats
+GitHub Stats
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByYousuf&layout=compact&show_icon=true&theme=algolia" alt="BitByYousuf-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=BitByYousuf&layout=compact&show_icon=true&theme=algolia" alt="BitByYousuf-stats"/>
 </div>
