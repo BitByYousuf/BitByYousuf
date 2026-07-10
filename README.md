@@ -74,7 +74,7 @@ I am a Software Engineer and AI master's student with over 3 years of profession
 
 ## Work Experience
 
-Rather than dropping a full resume, here is a practical look at what I've spent the last 3+ years doing professionally (most recently at Nanosoft Technologies and Mean3 Pvt Ltd):
+Rather than dropping a full resume, here is a practical look at what I've spent the last 3+ years doing professionally:
 
 - **Backend & APIs:** Writing robust backend services, REST APIs, and data pipelines primarily using Python, PHP, and SQL.
 - **Applied Machine Learning:** Taking predictive models for things like forecasting and anomaly detection and integrating them into live user-facing applications.
