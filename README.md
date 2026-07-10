@@ -85,7 +85,7 @@ Rather than dropping a full resume, here is a practical look at what I've spent 
 
 ## Education & Certifications
 
-- **MSc Artificial Intelligence** (2024–2026) | Brandenburgische Technische Universität Cottbus-Senftenberg, Germany
+- **MSc Artificial Intelligence** (2024–Present) | Brandenburgische Technische Universität Cottbus-Senftenberg, Germany
 - **BSc Computer Science** (2017–2020) | Iqra University, Pakistan
 - **Certifications:** Deep Learning for Computer Vision, PHP Object-Oriented Programming
 
