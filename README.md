@@ -84,7 +84,7 @@ I am a creative, dedicated, and impact-driven AI & Software Engineer with 3+ yea
 ## Experience Highlights
 
 **Nanosoft Technologies**  
-_Software Engineer _  
+Software Engineer
 - Built scalable web applications & data pipelines (Python, SQL, PHP)
 - Integrated ML models for predictive analytics & automated reporting
 - Developed AI-driven features (anomaly detection, forecasting)
@@ -93,7 +93,7 @@ _Software Engineer _
 **Awards:** Recognized for advancing AI integration & automation
 
 **Mean3 Pvt Ltd**  
-_Back End Developer _  
+Back End Developer 
 - Engineered web platforms with PHP, Python, SQL, & AI-powered features
 - Led microservices migration with Docker, optimized backend performance
 - Implemented automated testing with Pytest & PHPUnit  
