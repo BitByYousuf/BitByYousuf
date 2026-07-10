@@ -22,19 +22,17 @@ Hi, I'm Yousuf Jasim!
 
 <hr/>
 
-I am a creative, dedicated, and impact-driven AI & Software Engineer with 3+ years of experience in software and AI/ML development, scalable web applications, and data-driven solutions. I combine strong technical skills (Python, SQL, JavaScript, ML) with hands-on industry experience and ongoing academic training (Master’s in Artificial Intelligence). I thrive on solving meaningful problems, collaborating with diverse teams, and always learning new things!
+I am a Software Engineer and AI master's student with over 3 years of professional experience. I specialize in backend development, building data pipelines, and taking machine learning models out of notebooks and integrating them into production environments. I enjoy solving practical problems, writing clean code, and continuously exploring the AI and cloud space.
 
 ---
 
 ## About Me
 
 - **Current:** AI & Software Engineer | Master's in Artificial Intelligence (Berlin)
-- **Experience:** Over 3 years building scalable web apps, ML solutions, and data-driven products
-- **Passions:** Machine learning, automation, backend, open-source, and continuous learning
-- **Learning:** Deep Learning, MLOps, Cloud Engineering
-- **Mentoring:** I enjoy helping junior devs, sharing knowledge, and reviewing code
+- **Background:** 3+ years working professionally as a backend developer and AI engineer
+- **Interests:** Machine learning, backend infrastructure, open-source, and automation
+- **Currently Learning:** Deep Learning, MLOps, and Cloud Engineering
 - **Location:** Berlin Metropolitan Area
-- **Quote:** _"If you can dream it, you can do it."_
 
 ---
 
@@ -74,50 +72,30 @@ I am a creative, dedicated, and impact-driven AI & Software Engineer with 3+ yea
 
 ---
 
-## Certifications
+## Work Experience
 
-- Deep Learning for Computer Vision
-- PHP Object-Oriented Programming (OOP)
+Rather than dropping a full resume, here is a practical look at what I've spent the last 3+ years doing professionally (most recently at Nanosoft Technologies and Mean3 Pvt Ltd):
 
----
-
-## Experience Highlights
-
-**Nanosoft Technologies**  
-Software Engineer
-- Built scalable web applications & data pipelines (Python, SQL, PHP)
-- Integrated ML models for predictive analytics & automated reporting
-- Developed AI-driven features (anomaly detection, forecasting)
-- Dockerized services & automated with CI/CD  
-**Impact:** Reduced data processing time & improved system performance  
-**Awards:** Recognized for advancing AI integration & automation
-
-**Mean3 Pvt Ltd**  
-Back End Developer 
-- Engineered web platforms with PHP, Python, SQL, & AI-powered features
-- Led microservices migration with Docker, optimized backend performance
-- Implemented automated testing with Pytest & PHPUnit  
-**Impact:** Increased data retrieval speed, reduced bugs, improved adoption  
-**Awards:** Commended for driving AI innovation & scalable architecture
+- **Backend & APIs:** Writing robust backend services, REST APIs, and data pipelines primarily using Python, PHP, and SQL.
+- **Applied Machine Learning:** Taking predictive models for things like forecasting and anomaly detection and integrating them into live user-facing applications.
+- **Infrastructure:** Moving legacy applications to Docker-based microservices and setting up CI/CD workflows to automate deployments.
+- **Testing & Maintenance:** Writing reliable unit and integration tests (Pytest, PHPUnit) to keep codebases stable and prevent bugs in production.
 
 ---
 
-## Education
+## Education & Certifications
 
-- **MSc Artificial Intelligence** (2024–2026)  
-  Brandenburgische Technische Universität Cottbus-Senftenberg, Germany
-- **BSc Computer Science** (2017–2020)  
-  Iqra University, Pakistan
+- **MSc Artificial Intelligence** (2024–2026) | Brandenburgische Technische Universität Cottbus-Senftenberg, Germany
+- **BSc Computer Science** (2017–2020) | Iqra University, Pakistan
+- **Certifications:** Deep Learning for Computer Vision, PHP Object-Oriented Programming
 
 ---
 
 ## Open Source & Community
 
-- Contributor to open-source projects (AI, ML, data analysis, web dev)
-- Sharing code, tutorials, and technical solutions with the developer community
-- Participating in code reviews, collaborative projects, and hackathons
-- Mentoring junior devs and AI enthusiasts
-- Advocating for clean code, automation, and scalable architectures
+- Contributing to open-source projects in the AI, ML, and web dev space.
+- Participating in hackathons and collaborative developer projects.
+- Mentoring junior developers and advocating for clean, maintainable code.
 
 ---
 
