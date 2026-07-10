@@ -9,7 +9,7 @@ Hi, I'm Yousuf Jasim!
   <a href="https://github.com/BitByYousuf/BitByYousuf/graphs/contributors"><img src="https://img.shields.io/github/contributors/BitByYousuf/BitByYousuf?color=blue"></a>
   <a href="https://github.com/BitByYousuf"><img src="https://img.shields.io/github/stars/BitByYousuf"></a>
   <a href="https://github.com/BitByYousuf/BitByYousuf/network/members"><img src="https://img.shields.io/github/forks/BitByYousuf/BitByYousuf.svg?color=blue&logo=github"></a>
-  <img src="https://komarev.com/ghpvc/?username=BitByYousuf&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="BitByYousuf" />
+  <img src="https://komarev.com/ghpvc/?username=BitByYousuf" width="0" height="0" alt="" />
 </p>
 
 <p align="center">
